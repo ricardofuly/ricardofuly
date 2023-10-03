@@ -12,7 +12,7 @@
 
   <br>
     <div align="center">
-    [![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardofuly)](https://github.com/anuraghazra/github-readme-stats)
+    [![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardofuly)](https://github.com/ricardofuly/github-readme-status)
     </div>
 
   <div style="display: inline_block"><br>
