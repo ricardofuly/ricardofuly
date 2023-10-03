@@ -13,7 +13,9 @@
   <br>
     <div align="center">
     </div>
-    [![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardofuly&show_icons=true&theme=synthwave)] (https://github.com/ricardofuly/github-readme-status)
+    ![ricardofuly's Stats](https://github-readme-stats.vercel.app/api?username=ricardofuly&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+    ![ricardofuly's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ricardofuly&theme=synthwave&hide_border=true)
+    ![ricardofuly's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardofuly&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
   <div style="display: inline_block"><br>
         <h2>Tecnologias</h2>
