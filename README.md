@@ -17,7 +17,8 @@
 
   <div style="display: inline_block"><br>
         <h2>Tecnologias</h2>
-        ![Static Badge](https://img.shields.io/badge/HTML-5-blue?style=for-the-badge) </br>
+        <img alt="Static Badge" src="https://img.shields.io/badge/HTML-5-blue?style=for-the-badge">
+ </br>
         ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) </br>
         ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) </br>
         ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) </br>
