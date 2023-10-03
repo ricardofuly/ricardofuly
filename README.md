@@ -17,12 +17,11 @@
 
   <div style="display: inline_block"><br>
         <h2>Tecnologias</h2>
-        <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge"> </br>
-        <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge"> </br>
-        ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) </br>
-        ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) </br>
-        ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) </br>
-        ![React Native](https://img.shields.io/badge/React-Native-000?style=for-the-badge&logo=React-Native)
+        <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge"> 
+        <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge">
+        <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge">
+        <img alt="Static Badge" src="https://img.shields.io/badge/REACT-lightblue?style=for-the-badge">
+        <img alt="Static Badge" src="https://img.shields.io/badge/REACT%20NATIVE-lightblue?style=for-the-badge">
   </div>
 
 ## Principais Projetos
