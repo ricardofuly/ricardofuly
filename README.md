@@ -12,9 +12,7 @@
 
   <br>
     <div align="center">
-    <a href="https://github.com/ricardofuly">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardofuly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardofuly&layout=compact&langs_count=7&theme=tokyonight"/>
+    [![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardofuly)](https://github.com/anuraghazra/github-readme-stats)
     </div>
 
   <div style="display: inline_block"><br>
