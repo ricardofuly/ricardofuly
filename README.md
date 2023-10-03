@@ -12,8 +12,8 @@
 
   <br>
     <div align="center">
-    ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardofuly&show_icons=true&theme=synthwave)
     </div>
+    ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardofuly&show_icons=true&theme=synthwave)
 
   <div style="display: inline_block"><br>
         <h2>Tecnologias</h2>
