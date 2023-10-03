@@ -1,33 +1,40 @@
-### Olá eu sou Ricardo Fuly 👋
-
 <div>
-  <a href="https://github.com/ricardofuly">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardofuly&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardofuly&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <!-- <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-<!--  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <!-- <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
- <!-- <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-plain.svg">
+    <h1>Olá! Eu Sou o Ricardo ou aka Ricky 🖖</h1>
+    <h2>Bem Vindo! - Welcome!  </h2>
+    <p> 
+        Eu sou Ricardo Fuly sou natural do Rio de Janeiro e apaixonado por tecnologia, meu primeiro contato com a programação foi em 2012 no blogger com um blog sobre música, desde então sempre estou estudando sobre o assunto. Meu foco de inicio é me tornar uma Dev front ou back e mais pra frente realizar o meu sonho de ser Game Dev.
+    </p>
 </div>
 
-  
- ##
-  
-<div> 
-  <a href="https://www.youtube.com/rickyrj" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/orickyrj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/ricky_rj" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/hcPJTEzjgV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato.rickyrj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardofuly/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>  
+   <h2>Conecte-se comigo</h2>
+   <a href="https://www.linkedin.com/in/ricardofuly/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:lricardofs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  <br>
+    <div align="center">
+    <a href="https://github.com/ricardofuly">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardofuly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardofuly&layout=compact&langs_count=7&theme=tokyonight"/>
+    </div>
+
+  <div style="display: inline_block"><br>
+        <h2>Tecnologias</h2>
+        ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+        ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+        ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+        ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+        ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+        ![React Native](https://img.shields.io/badge/React-Native-000?style=for-the-badge&logo=React-Native)
+  </div>
+
+## Principais Projetos
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardofuly&repo=Codificador-de-Mensagens&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ricardofuly/Codificador-de-Mensagens)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardofuly&repo=gameflix&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ricardofuly/gameflix)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardofuly&repo=jogo-da-velha&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ricardofuly/jogo-da-velha)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardofuly&repo=DioShop&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ricardofuly/DioShop)
+
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardofuly&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/ricardofuly/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mentoria-grupo7&repo=abracaAe&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/mentoria-grupo7/abracaAe)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mentoria-grupo7&repo=apiAbracaAe&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/mentoria-grupo7/apiAbracaAe)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mentoria-grupo7&repo=landingPage&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/mentoria-grupo7/landingPage)
