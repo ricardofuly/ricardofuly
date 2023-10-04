@@ -11,12 +11,7 @@
     <a href = "mailto:lricardofs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <br>
-    <div align="center">
-    </div>
-    ![ricardofuly's Stats](https://github-readme-stats.vercel.app/api?username=ricardofuly&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
-    ![ricardofuly's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ricardofuly&theme=synthwave&hide_border=true)
-    ![ricardofuly's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardofuly&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
-
+    
   <div style="display: inline_block"><br>
         <h2>Tecnologias</h2>
         <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge"> 
