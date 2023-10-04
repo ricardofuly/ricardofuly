@@ -19,6 +19,7 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge">
         <img alt="Static Badge" src="https://img.shields.io/badge/REACT-lightblue?style=for-the-badge">
         <img alt="Static Badge" src="https://img.shields.io/badge/REACT%20NATIVE-lightblue?style=for-the-badge">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python">    
   </div>
 
 ## Principais Projetos
