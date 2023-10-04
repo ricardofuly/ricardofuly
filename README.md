@@ -14,11 +14,11 @@
     
   <div style="display: inline_block"><br>
         <h2>Tecnologias</h2>
-        <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge"> 
-        <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge">
-        <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge">
-        <img alt="Static Badge" src="https://img.shields.io/badge/REACT-lightblue?style=for-the-badge">
-        <img alt="Static Badge" src="https://img.shields.io/badge/REACT%20NATIVE-lightblue?style=for-the-badge">
+        <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5">
+        <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript">
+        <img alt="Static Badge" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react">
+        <img alt="Static Badge" src="https://img.shields.io/badge/React%20Native-black?style=for-the-badge&logo=react">
         <img alt="Static Badge" src="https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python">    
   </div>
 
