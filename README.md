@@ -2,7 +2,7 @@
     <h1>Olá! Eu Sou o Ricardo ou aka Ricky 🖖</h1>
     <h2>Bem Vindo! - Welcome!  </h2>
     <p> 
-        Eu sou Ricardo Fuly sou natural do Rio de Janeiro e apaixonado por tecnologia, meu primeiro contato com a programação foi em 2012 no blogger com um blog sobre música, desde então sempre estou estudando sobre o assunto. Meu foco de inicio é me tornar uma Dev front ou back e mais pra frente realizar o meu sonho de ser Game Dev.
+        Eu sou Ricardo Fuly sou natural do Rio de Janeiro e apaixonado por tecnologia, meu primeiro contato com a programação foi em 2012 no blogger com um blog sobre música, desde então sempre estou estudando sobre o assunto. Meu foco de inicio é me tornar um Dev front ou back e mais pra frente realizar o meu sonho de ser Game Dev.
     </p>
 </div>
 
