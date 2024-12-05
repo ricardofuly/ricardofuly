@@ -23,7 +23,7 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript">
         <img alt="Static Badge" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react">
         <img alt="Static Badge" src="https://img.shields.io/badge/React%20Native-black?style=for-the-badge&logo=react">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python&labelColor=black"> 
+        <img alt="Static Badge" src="https://img.shields.io/badge/C++-Learning-yellow?style=for-the-badge&logo=c++&labelColor=black"> 
   </div>
 
 ## Principais Projetos
