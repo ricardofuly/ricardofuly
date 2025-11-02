@@ -27,9 +27,9 @@
   </div>
 
 ## Principais Projetos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardofuly&repo=Codificador-de-Mensagens&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ricardofuly/Codificador-de-Mensagens)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardofuly&repo=gameflix&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ricardofuly/gameflix)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardofuly&repo=jogo-da-velha&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ricardofuly/jogo-da-velha)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardofuly&repo=Dynamic-Timers&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ricardofuly/Dynamic-Timers)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardofuly&repo=Typing-Dungeon-Crawler&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ricardofuly/Typing-Dungeon-Crawler)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardofuly&repo=LearningSandbox&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ricardofuly/LearningSandbox)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardofuly&repo=DioShop&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ricardofuly/DioShop)
 
 ## Minhas Contribuições
