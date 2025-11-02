@@ -32,7 +32,7 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardofuly&repo=LearningSandbox&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ricardofuly/LearningSandbox)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardofuly&repo=DioShop&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ricardofuly/DioShop)
 
-## Minhas Contribuições
+<!--## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardofuly&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/ricardofuly/dio-lab-open-source)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mentoria-grupo7&repo=abracaAe&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/mentoria-grupo7/abracaAe)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mentoria-grupo7&repo=landingPage&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/mentoria-grupo7/landingPage)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mentoria-grupo7&repo=landingPage&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/mentoria-grupo7/landingPage) -->
